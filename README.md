@@ -1,1 +1,0 @@
-# GameDrop-frontend
